@@ -1,0 +1,27 @@
+{
+  "name": "sam-vuepressy",
+  "version": "1.0.0",
+  "description": "learn vuepress",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/myguddy/sam-vuepressy.git"
+  },
+  "keywords": [
+    "vuepress",
+    "documentation"
+  ],
+  "author": "seungil han",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/myguddy/sam-vuepressy/issues"
+  },
+  "homepage": "https://github.com/myguddy/sam-vuepressy#readme"
+}
